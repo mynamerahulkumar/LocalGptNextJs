@@ -1,0 +1,2 @@
+# LocalGptNextJs
+LocalGptNextJs
