@@ -1,11 +1,14 @@
-import Post from "./components/Post";
+
+import PostList from "./components/PostList.tsx";
 
 function App() {
   return (
-    <div className="App">
-    <Post/>
-    <h1>Hello world</h1>
-    </div>
+    <main>
+  <PostList/>
+  
+
+    </main>
+ 
   );
 }
 
